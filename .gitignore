@@ -1,4 +1,9 @@
+.gradle
+.iml
 .idea
-/shelf/
-/workspace.xml
+build
+out
 target
+/target/
+/.idea/
+.gitignore
